@@ -362,10 +362,5 @@ Test Loss: 0.33330712863924905 | Test Accuracy: 0.8569773390279178
 | Unfrozen Layers | 4 | Last N layers trainable |
 | Optimizer | AdamW | Weight decay optimizer |
 
-## Acknowledgments
 
-- Vision Transformer architecture based on [An Image is Worth 16x16 Words](https://arxiv.org/abs/2010.11929)
-- Masked Autoencoder pretraining inspired by [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
-
-***if this helped you, give it a ⭐***
 ---
